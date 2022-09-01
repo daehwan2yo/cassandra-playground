@@ -1,5 +1,22 @@
 # cassandra-playground
 
+> Cassandra is a non-relational dataase, also known as NoSQL database,  
+> designed to operate in distributed environment or cloud infrastructure.
+
+### scalable
+#### -확장성
+
+### elastic
+#### -탄력성
+
+### avalibility
+#### -가용성
+
+### fault-rolerant
+#### -장애 허용
+
+--- 
+
 ### 카산드라 구조
 https://github.com/daehwan2yo/cassandra-playground/issues/1
 
