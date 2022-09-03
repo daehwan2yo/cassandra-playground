@@ -4,7 +4,7 @@
 > designed to operate in distributed environment or cloud infrastructure.
 
 # wiki  
-https://github.com/daehwan2yo/cassandra-playground.wiki.git
+https://github.com/daehwan2yo/cassandra-playground/wiki
 
 ### scalable
 #### -확장성
