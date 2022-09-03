@@ -3,6 +3,9 @@
 > Cassandra is a non-relational dataase, also known as NoSQL database,  
 > designed to operate in distributed environment or cloud infrastructure.
 
+# wiki  
+https://github.com/daehwan2yo/cassandra-playground.wiki.git
+
 ### scalable
 #### -확장성
 
